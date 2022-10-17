@@ -1,0 +1,15 @@
+/Users/denissushko/Desktop/DZ2_C#/Task_10/bin/Debug/net7.0/Task_10
+/Users/denissushko/Desktop/DZ2_C#/Task_10/bin/Debug/net7.0/Task_10.deps.json
+/Users/denissushko/Desktop/DZ2_C#/Task_10/bin/Debug/net7.0/Task_10.runtimeconfig.json
+/Users/denissushko/Desktop/DZ2_C#/Task_10/bin/Debug/net7.0/Task_10.dll
+/Users/denissushko/Desktop/DZ2_C#/Task_10/bin/Debug/net7.0/Task_10.pdb
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.csproj.AssemblyReference.cache
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.AssemblyInfoInputs.cache
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.AssemblyInfo.cs
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.csproj.CoreCompileInputs.cache
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.dll
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/refint/Task_10.dll
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.pdb
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/Task_10.genruntimeconfig.cache
+/Users/denissushko/Desktop/DZ2_C#/Task_10/obj/Debug/net7.0/ref/Task_10.dll
