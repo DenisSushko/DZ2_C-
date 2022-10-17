@@ -8,7 +8,7 @@ int GetNumber()
     int number = 0;
     while (number < 99 || number > 999)
     {
-        Console.WriteLine("Введите число!");
+        Console.WriteLine("Enter number");
         number = Convert.ToInt32(Console.ReadLine());
 
     }
@@ -25,7 +25,7 @@ void CheckDozens(int number)
     }
 
     int result = сurrent_number % 10;
-    Console.WriteLine("Вторая цифра введенного числа " + (result));
+    Console.WriteLine("The second digit of the entered number " + (result));
 }
 
 int number = GetNumber();
